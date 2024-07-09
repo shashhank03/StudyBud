@@ -106,4 +106,4 @@ For any questions or feedback, please contact [shashhankt@gmail.com].
 
 ---
 
-Thank you for using the Room Discussion Website! Enjoy your discussions!
+Thank you for using Studybud! Enjoy your discussions!
