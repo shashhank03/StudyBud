@@ -71,7 +71,7 @@ Welcome to StudyBud! This platform allows users to create virtual rooms where th
 ├── manage.py
 ├── requirements.txt
 ├── venv/
-├── app_name/
+├── base/
 │   ├── __init__.py
 │   ├── admin.py
 │   ├── apps.py
@@ -84,7 +84,7 @@ Welcome to StudyBud! This platform allows users to create virtual rooms where th
 │   │   └── ...
 │   └── static/
 │       └── ...
-└── project_name/
+└── studybud/
     ├── __init__.py
     ├── settings.py
     ├── urls.py
